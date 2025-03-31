@@ -1,9 +1,0 @@
-﻿  Scanning sources for module dependencies...
-  Scanning sources for module dependencies...
-  Weapon.cpp
-  Character.cpp
-  Compiling...
-  Weapon.cpp
-  Character.cpp
-     Creating library C:/Users/batma/Desktop/FIghtClub/build/bin/Debug/GameLib.lib and object C:/Users/batma/Desktop/FIghtClub/build/bin/Debug/GameLib.exp
-  GameLib.vcxproj -> C:\Users\batma\Desktop\FIghtClub\build\bin\Debug\GameLib.dll

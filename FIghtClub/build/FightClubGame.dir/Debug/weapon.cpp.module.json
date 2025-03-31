@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "FightClubGame.dir\\Debug\\Weapon.obj",
+            "outputs": [
+                "FightClubGame.dir\\Debug\\Weapon.cod",
+                "C:\\Users\\batma\\Desktop\\FIghtClub\\build\\FightClubGame.dir\\Debug\\vc143.pdb",
+                "FightClubGame.dir\\Debug\\"
+            ],
+            "requires": []
+        }
+    ]
+}

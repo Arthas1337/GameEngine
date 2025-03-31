@@ -1,0 +1,5 @@
+C:/Users/batma/Desktop/FIghtClub/build/CMakeFiles/FightClubGame.dir
+C:/Users/batma/Desktop/FIghtClub/build/CMakeFiles/MathLib.dir
+C:/Users/batma/Desktop/FIghtClub/build/CMakeFiles/FightClubGameLib.dir
+C:/Users/batma/Desktop/FIghtClub/build/CMakeFiles/FightClubGameTestRunner.dir
+C:/Users/batma/Desktop/FIghtClub/build/CMakeFiles/ALL_BUILD.dir

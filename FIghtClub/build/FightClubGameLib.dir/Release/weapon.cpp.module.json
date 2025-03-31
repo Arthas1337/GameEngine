@@ -1,0 +1,13 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "FightClubGameLib.dir\\Release\\Weapon.obj",
+            "outputs": [
+                "FightClubGameLib.dir\\Release\\"
+            ],
+            "requires": []
+        }
+    ]
+}

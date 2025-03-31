@@ -9,7 +9,7 @@
         #define GAME_API
     #endif
 #else 
-    #define GAME_API __atribute__((visibility("default")))
+    #define GAME_API __attribute__ ((visibility ("default")))
 #endif
 
 class Weapon;

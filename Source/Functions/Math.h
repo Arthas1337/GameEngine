@@ -10,7 +10,7 @@
         #define MATH_API
     #endif
 #else 
-    #define MATH_API __atribute__((visibility("default")))
+    #define MATH_API __attribute__ ((visibility ("default")))
 #endif
 
 namespace LifeExe
